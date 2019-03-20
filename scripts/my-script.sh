@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # make empty directories in your git repo
 mkdir -p analysis docs data
 
